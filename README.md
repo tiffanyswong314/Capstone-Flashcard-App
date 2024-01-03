@@ -1,6 +1,6 @@
 # Capstone: Flashcard-o-matic
 
-A local school has decided to put together a flash card application, Flashcard-o-matic, to help their students study online. Teachers will use this application to create decks of flash cards for the subjects that they teach, and students will study the decks. The school needs you to build the application that the students and teachers will use.
+>A local school has decided to put together a flash card application, Flashcard-o-matic, to help their students study online. Teachers will use this application to create decks of flash cards for the subjects that they teach, and students will study the decks. The school needs you to build the application that the students and teachers will use.
 
 ![flascardApp](https://images.ctfassets.net/c7lxnbtvvcxm/6EQ6qCokZfPfkoU0MkT7EF/e310f418a00c85ca0065fed2a67850f9/Flashcard-o-matic.png)
 
