@@ -1,26 +1,15 @@
-# thinkful-flashcard-app
-
-## Project description: Flashcard-o-matic
+# Capstone: Flashcard-o-matic
 
 A local school has decided to put together a flash card application, Flashcard-o-matic, to help their students study online. Teachers will use this application to create decks of flash cards for the subjects that they teach, and students will study the decks. The school needs you to build the application that the students and teachers will use.
 
-A flashcard application for helping students study online.
+![flascardApp](https://images.ctfassets.net/c7lxnbtvvcxm/6EQ6qCokZfPfkoU0MkT7EF/e310f418a00c85ca0065fed2a67850f9/Flashcard-o-matic.png)
 
 Bootstrap 4 is included with the starter HTML. You're welcome to use vanilla CSS or Bootstrap 4 for styling your project. However, your finished product doesn't have to match the styles in the provided screenshots because you won't be assessed on the styling or responsiveness of your project.
-
-## Steps to complete
-
-To complete this project, you must do the following:
-
-- Write code that passes all the tests in the Qualified assessment in this lesson.
-- Write code that passes all of the requirements outlined below, and submit your GitHub repo link to the Thinkful team in the next lesson.
-- Remember to sync this Qualified project with your local machine so that you can commit it to GitHub in the next lesson.
 
 ## Requirements to pass
 
 For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
-
-- All tests are passing in Qualified.
+- All tests are passing.
 - All the props are treated as read-only.
 - State is never directly mutated; it's only updated via setState().
 - The Edit Card and Create Card screens share the same form component.
